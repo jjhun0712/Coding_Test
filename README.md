@@ -11,3 +11,4 @@ a와 b 출력하기 : Print_a_and_b.c
                        Print_with_string_attached_2.c
 2023-11-24
 문자열 돌리기 : Turing_a_string.c
+홀짝 구분하기 : Distinguishing_odd_even.c
