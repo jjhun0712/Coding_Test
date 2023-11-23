@@ -9,3 +9,5 @@ a와 b 출력하기 : Print_a_and_b.c
 특수문자 출력하기 : Print_special_characters.c
 문자열 붙여서 출력하기 : Print_with_string_attached_1.c
                        Print_with_string_attached_2.c
+2023-11-24
+문자열 돌리기 : Turing_a_string.c
